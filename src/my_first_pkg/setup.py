@@ -16,8 +16,8 @@ setup(
     zip_safe=True,
     maintainer='Yash-Juvekar',
     maintainer_email='yashjuvekar13@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='TurtleBot3 simulation nodes: velocity publisher, odometry subscriber and LiDAR obstacle avoider',
+    license='MIT',
     extras_require={
         'test': [
             'pytest',

@@ -3,9 +3,9 @@
 <package format="3">
   <name>my_first_pkg</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>TurtleBot3 simulation nodes: velocity publisher, odometry subscriber and LiDAR obstacle avoider</description>
   <maintainer email="yashjuvekar13@gmail.com">Yash-Juvekar</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MIT</license>
 
   <depend>rclpy</depend>
   <depend>geometry_msgs</depend>
